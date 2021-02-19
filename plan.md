@@ -1,4 +1,4 @@
-# Plan of acions
+ # Plan of acions
 
 1-Initialize our NodeJs project 
 
@@ -38,6 +38,9 @@
 
 
 5-Add the ability to allow others to stream their video 
+
+    Use socket.io (library)to have a real time communication in the same chanel
+
 6-Add styling
 7-Add the ability to create message 
 8-Add mute button 
